@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    
+    <item
+        android:id="@+id/btnNovo"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_add_person"
+        android:title="@string/lbNovo"/>
+     
+    <item
+        android:id="@+id/btnPropriedades"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_overflow"
+        android:title="@string/lbPropriedades">
+        
+        <menu >
+            <item
+		        android:id="@+id/btnSincronizar"
+		        android:showAsAction="always"
+		        android:title="@string/lbSincronizar" />
+		        
+             <item
+		        android:id="@+id/btnSobre"
+		        android:showAsAction="always"
+		        android:title="@string/lbSobre" />
+        </menu>
+    </item>
+
+</menu>

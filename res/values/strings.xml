@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_formulario">FormularioActivity</string>
+    
+    <string name="lbNome">Nome</string>
+    
+    <string name="hintNome">Digite o nome aqui</string>
+    <string name="hintfone">(XX) XXXX-XXXX</string>
+    
+    <string name="lbNovo">Novo</string>
+    <string name="lbPropriedades">Propriedades</string>
+    <string name="lbSincronizar">Sincronizar</string>
+    <string name="lbSobre">Sobre</string>
+    <string name="btnSalvar">Salvar</string>
+
+</resources>
